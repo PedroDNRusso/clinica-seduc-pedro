@@ -12,7 +12,7 @@ Projeto de demonstração CRUD usado em aulas no SENAI 2025
 
 ## Como Testar
 - 1 clone este repositório
-- 2 Abra o **XAMPP**, de start em **MySQL**, abra um shell e acesse o MySQL [mysql -u root]
+- 2 Abra o **XAMPP**, de start em **MySQL**, abra um shell e acesse o MySQL [mySQL -u root]
 - 3 Copie o script de população do banco de dados **./docs/bd.sql**
 - 4 Abra a pasta raíz com **VsCode**
 - 5 Abra um terminal CTRL + ' do tipo **cmd** ou **bash** e execute os comandos
